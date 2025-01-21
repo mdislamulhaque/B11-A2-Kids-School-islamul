@@ -27,6 +27,18 @@ nav {
   display: flex;
   align-items: center;
 }
+.item-1 {
+  color: #fea301;
+}
+.item-2 {
+  color: #01acfd;
+}
+.item-3 {
+  color: #05d4df;
+}
+.item-4 {
+  color: #5d58ef;
+}
 
 .menu ul li a {
   font-size: 20px;
