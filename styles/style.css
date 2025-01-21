@@ -88,7 +88,7 @@ nav {
 
 /* curriculam section style start here  */
 .curriculam {
-  background: url("/assets/bg.png");
+  background: url("../assets/bg.png");
   object-fit: cover;
   background-size: cover;
   background-repeat: no-repeat;
