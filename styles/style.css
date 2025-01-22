@@ -159,6 +159,12 @@ a {
   margin: 20px 0px;
 }
 
+.card-3 > p,
+.card-2 > p,
+.card-1 > p {
+  padding: 0px;
+}
+
 .card-1 a {
   color: rgb(100, 200, 255);
 }
@@ -203,6 +209,7 @@ a {
   align-items: center;
   justify-content: center;
   gap: 10px;
+  cursor: pointer;
 }
 
 .left-arrow,
